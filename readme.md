@@ -102,4 +102,4 @@ If Björn has enough paper to make an A1 paper, output a single floating point n
 
 
 
-[img1]: .\img1.png
+[img1]: img1.png
