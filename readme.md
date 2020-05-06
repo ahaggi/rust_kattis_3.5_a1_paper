@@ -89,7 +89,7 @@ If Björn has enough paper to make an A1 paper, output a single floating point n
 
 <td>
 
-<pre>impossible
+<pre> impossible
 </pre>
 
 </td>
@@ -99,6 +99,7 @@ If Björn has enough paper to make an A1 paper, output a single floating point n
 </tbody>
 
 </table>
+
 
 
 
